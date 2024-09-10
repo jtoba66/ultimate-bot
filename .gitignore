@@ -1,0 +1,6 @@
+/.env
+/babadata.json
+/coy.py
+/dup_knowledge.json
+/meilisearch
+/question_variation_generator.py

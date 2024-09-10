@@ -1,0 +1,302 @@
+[
+  {
+    "question": "What is Jackal Protocol?",
+    "answer": "Jackal Protocol is a decentralized storage solution that leverages blockchain technology to provide secure, privacy-focused, and scalable file storage across multiple networks."
+  },
+  {
+    "question": "How does Jackal ensure file security?",
+    "answer": "Jackal uses client-side encryption, meaning all files are encrypted before they are uploaded to the network, ensuring only the user has access to their data."
+  },
+  {
+    "question": "How do I become a storage provider for Jackal?",
+    "answer": "To become a storage provider, you need to meet the hardware requirements, fill out an application form, and be selected based on demand and network requirements."
+  },
+  {
+    "question": "How are storage providers rewarded?",
+    "answer": "Storage providers are rewarded in $JKL tokens based on the amount of storage they contribute to the network and their node's uptime."
+  },
+  {
+    "question": "Can I run a Jackal node at home?",
+    "answer": "Yes, you can run a Jackal node at home as long as it meets the minimum hardware requirements for storage and network capacity."
+  },
+  {
+    "question": "How does Jackal handle data redundancy?",
+    "answer": "Jackal uses a redundancy model to store data across multiple nodes, ensuring high availability and protection against data loss during network outages."
+  },
+  {
+    "question": "What blockchain networks does Jackal support?",
+    "answer": "Jackal is designed to support multiple blockchain networks through integration with Cosmos IBC, Axelar, and Ethereum L2 solutions."
+  },
+  {
+    "question": "Can I use Jackal to store personal files?",
+    "answer": "Yes, Jackal is suitable for storing personal files such as photos, documents, and videos with full encryption and privacy."
+  },
+  {
+    "question": "Does Jackal charge transaction fees for data uploads?",
+    "answer": "Yes, a small transaction fee in $JKL is required for uploading files to the network."
+  },
+  {
+    "question": "Will Jackal integrate with centralized cloud storage providers?",
+    "answer": "Jackal is exploring integrations with centralized cloud services to provide a hybrid solution, allowing users to store and manage data across decentralized and centralized platforms."
+  },
+  {
+    "question": "How can developers build on Jackal?",
+    "answer": "Developers can build on Jackal using the upcoming SDK and APIs, which will allow integration of decentralized storage into decentralized applications (dApps)."
+  },
+  {
+    "question": "What happens if my Jackal node goes offline?",
+    "answer": "If a node goes offline, the redundancy system ensures that files remain available from other nodes on the network, preventing data loss."
+  },
+  {
+    "question": "Will Jackal support file versioning?",
+    "answer": "Yes, file versioning is on the roadmap to allow users to manage different versions of their files securely."
+  },
+  {
+    "question": "Can I use Jackal for NFT metadata storage?",
+    "answer": "Yes, Jackal supports secure storage of NFT metadata, providing a decentralized option for storing and accessing this data."
+  },
+  {
+    "question": "How does Jackal handle file retrieval times?",
+    "answer": "Jackal optimizes file retrieval through its decentralized network, ensuring quick access to files using its redundancy and distributed node system."
+  },
+  {
+    "question": "What are the minimum staking requirements for $JKL tokens?",
+    "answer": "The minimum staking amount is 1 $JKL token, which can be staked through the Keplr wallet or other supported wallets."
+  },
+  {
+    "question": "How does Jackal handle smart contracts?",
+    "answer": "Jackal supports smart contract functionality, allowing developers to build decentralized applications (dApps) with secure storage features."
+  },
+  {
+    "question": "Can I store legal contracts on Jackal?",
+    "answer": "Yes, legal contracts can be securely stored on Jackal with encryption and immutability, ensuring privacy and integrity."
+  },
+  {
+    "question": "Will Jackal support mobile applications?",
+    "answer": "Yes, mobile applications for file uploads and management are in development to provide more flexibility for users."
+  },
+  {
+    "question": "How can I retrieve my files from Jackal?",
+    "answer": "Files can be retrieved through the Jackal dashboard or via API integrations for developers."
+  },
+  {
+    "question": "What's the maximum file size supported by Jackal?",
+    "answer": "Jackal currently supports files up to 32GB, with plans to increase this limit in the future."
+  },
+  {
+    "question": "Does Jackal offer multi-chain support?",
+    "answer": "Yes, Jackal supports multiple chains and is working on multi-chain integrations to expand storage options across different blockchains."
+  },
+  {
+    "question": "Can I run a Jackal node on a Raspberry Pi?",
+    "answer": "Yes, but the Raspberry Pi must meet the minimum hardware requirements for stability and storage capacity."
+  },
+  {
+    "question": "Will Jackal support enterprise-level storage?",
+    "answer": "Yes, Jackal is being designed to accommodate enterprise-level storage needs, with scalability and security as top priorities."
+  },
+  {
+    "question": "How does Jackal prevent data tampering?",
+    "answer": "Jackal uses cryptographic hashing to verify the integrity of files, ensuring that they remain unchanged during storage and retrieval."
+  },
+  {
+    "question": "Can I store sensitive legal documents on Jackal?",
+    "answer": "Yes, Jackal's encryption ensures that sensitive legal documents remain private and secure."
+  },
+  {
+    "question": "How does Jackal handle file deletion?",
+    "answer": "Jackal allows secure file deletion by removing all file copies from the network nodes when a file is deleted by the user."
+  },
+  {
+    "question": "Can I store supply chain data on Jackal?",
+    "answer": "Yes, Jackal is designed to store supply chain data securely, with full encryption and privacy."
+  },
+  {
+    "question": "Will Jackal support real time collaboration on files?",
+    "answer": "Yes, real-time collaboration features are being explored for Jackal, allowing users to work on files simultaneously in a decentralized manner."
+  },
+  {
+    "question": "Can I use Jackal to store audit logs?",
+    "answer": "Yes, Jackal is ideal for securely storing audit logs with encryption and tamper-proof records."
+  },
+  {
+    "question": "Will Jackal support video streaming?",
+    "answer": "Video storage and streaming are future use cases being explored for Jackal's decentralized storage network."
+  },
+  {
+    "question": "How does Jackal handle file sharing?",
+    "answer": "Jackal is developing secure file sharing features that allow users to grant access to specific files while maintaining control over their privacy."
+  },
+  {
+    "question": "Will Jackal offer decentralized identity (DID) solutions? or can i use jackal for DID ?",
+    "answer": "Yes, decentralized identity solutions are part of Jackal's future roadmap, enabling users to manage their digital identities securely."
+  },
+  {
+    "question": "Can I store employee records on Jackal?",
+    "answer": "Yes, Jackal can securely store employee records with encryption, ensuring that sensitive data remains private."
+  },
+  {
+    "question": "How does Jackal handle scalability?",
+    "answer": "Jackal scales horizontally by adding more nodes to the network as storage demand increases, ensuring the system can handle large-scale data."
+  },
+  {
+    "question": "What is the uptime for Jackal nodes?",
+    "answer": "Jackal nodes are expected to maintain high uptime due to the network's redundancy and incentivization model."
+  },
+  {
+    "question": "How does Jackal ensure compliance with data protection laws?",
+    "answer": "Jackal is designed to comply with international data protection regulations like GDPR, thanks to its encryption and decentralized model."
+  },
+  {
+    "question": "Can I store personal health records on Jackal?",
+    "answer": "Yes, personal health records can be securely stored on Jackal, making it a suitable solution for healthcare data."
+  },
+  {
+    "question": "How does Jackal handle cross-chain functionality?",
+    "answer": "Jackal uses protocols like Cosmos IBC and Axelar to facilitate cross-chain storage and integrations, enabling interoperability across blockchains."
+  },
+  {
+    "question": "Will Jackal offer decentralized finance (DeFi) support?",
+    "answer": "Yes, Jackal can securely store DeFi data, and there are plans to support decentralized finance governance through data storage."
+  },
+  {
+    "question": "Can I store multimedia files on Jackal?",
+    "answer": "Yes, Jackal supports multimedia files such as images, audio, and video, with full encryption for privacy and security."
+  },
+  {
+    "question": "What does Jackal do differently from centralized cloud storage?",
+    "answer": "Jackal offers decentralized storage with client-side encryption, ensuring higher security, privacy, and control compared to traditional cloud solutions."
+  },
+  {
+    "question": "How are storage providers incentivized on Jackal?",
+    "answer": "Storage providers are incentivized through rewards in $JKL tokens based on their storage contribution and uptime."
+  },
+  {
+    "question": "What are Jackal Outposts?",
+    "answer": "Jackal Outposts are deployments of Jackal on other blockchain networks, allowing interoperability and expanded storage capabilities across chains."
+  },
+  {
+    "question": "How can I monitor my storage usage on Jackal?",
+    "answer": "You can monitor your storage usage through the Jackal dashboard, which provides real-time insights into your data consumption."
+  },
+  {
+    "question": "Does Jackal offer API access for developers?",
+    "answer": "Yes, Jackal will provide API access, allowing developers to integrate its decentralized storage services into their applications."
+  },
+  {
+    "question": "Can I store IoT data on Jackal?",
+    "answer": "Yes, Jackal is suitable for securely storing IoT sensor data, offering scalability and security for large datasets."
+  },
+  {
+    "question": "Will Jackal offer a marketplace for data?",
+    "answer": "Jackal is exploring the possibility of decentralized data marketplaces, allowing users to buy and sell data securely."
+  },
+  {
+    "question": "Can I store government records on Jackal?",
+    "answer": "Yes, Jackal is designed to securely store sensitive government records with encryption and redundancy."
+  },
+  {
+    "question": "Will Jackal support tokenized data ownership?",
+    "answer": "Yes, Jackal is exploring tokenized data ownership to allow users to control, share, and trade ownership of their data."
+  },
+  {
+    "question": "What makes Jackal different from centralized cloud storage?",
+    "answer": "Jackal provides decentralized, client-side encryption for file storage, offering more privacy, control, and security than centralized storage providers."
+  },
+  {
+    "question": "Is Jackal compliant with global data protection regulations like GDPR?",
+    "answer": "Yes, Jackal's encryption and user-controlled keys ensure compliance with regulations like GDPR."
+  },
+  {
+    "question": "How do I start using Jackal?",
+    "answer": "You can get started by creating a Jackal wallet using Keplr or Leap and following the instructions in the documentation to interact with the network."
+  },
+  {
+    "question": "Does Jackal support multi-chain storage?",
+    "answer": "Yes, Jackal supports multi-chain storage with cross-chain compatibility using Cosmos IBC and Axelar."
+  },
+  {
+    "question": "Can I store personal files like photos and videos on Jackal?",
+    "answer": "Yes, Jackal supports secure storage of personal files with encryption for privacy."
+  },
+  {
+    "question": "What hardware is required to run a Jackal node?",
+    "answer": "You need adequate storage capacity, high uptime, and network connectivity to qualify as a storage provider."
+  },
+  {
+    "question": "What happens if a node goes offline?",
+    "answer": "Jackal's redundancy model ensures that data remains accessible, even if some storage nodes go offline."
+  },
+  {
+    "question": "Can I become a storage provider without advanced technical skills?",
+    "answer": "Yes, you can become a storage provider by following the step-by-step instructions in Jackal's documentation, which simplifies the process."
+  },
+  {
+    "question": "Does Jackal support Raspberry Pi nodes?",
+    "answer": "Yes, you can run a Jackal node on a Raspberry Pi if it meets the minimum system requirements."
+  },
+  {
+    "question": "What is the expected uptime for Jackal nodes?",
+    "answer": "Jackal nodes are expected to maintain high uptime, and storage providers are incentivized to ensure their nodes are online consistently."
+  },
+  {
+    "question": "What happens if I lose my encryption keys?",
+    "answer": "If you lose your private keys, you will not be able to decrypt your files. It is important to store your private keys securely."
+  },
+  {
+    "question": "Can I share files securely using Jackal?",
+    "answer": "Yes, Jackal allows secure file sharing using encryption mechanisms that ensure only authorized users can access the shared files."
+  },
+  {
+    "question": "How does Jackal prevent unauthorized access to my data?",
+    "answer": "Jackal uses client-side encryption and private key management to ensure only authorized users can access and decrypt their data."
+  },
+  {
+    "question": "What kind of encryption does Jackal use for securing data?",
+    "answer": "Jackal uses a combination of AES encryption for files and ECIES for encrypting and storing keys."
+  },
+  {
+    "question": "Is there a way to recover files if my node goes offline?",
+    "answer": "Yes, Jackal's decentralized architecture ensures redundancy by replicating your files across multiple nodes."
+  },
+  {
+    "question": "How does Jackal ensure data integrity?",
+    "answer": "Jackal verifies data integrity using cryptographic hashes, ensuring that files remain unaltered during storage."
+  },
+  {
+    "question": "Can Jackal guarantee data privacy in case of a breach?",
+    "answer": "Jackal ensures privacy even in the case of a breach through its encryption mechanisms, where only the owner of the private key can decrypt data."
+  },
+  {
+    "question": "Does Jackal support smart contracts?",
+    "answer": "Yes, Jackal supports smart contracts, allowing developers to integrate decentralized storage with other blockchain applications."
+  },
+  {
+    "question": "Can developers build decentralized applications (dApps) on Jackal?",
+    "answer": "Yes, developers can build dApps using Jackal's SDK and APIs, which are designed to integrate storage solutions into decentralized ecosystems."
+  },
+  {
+    "question": "Does Jackal support mobile applications?",
+    "answer": "Yes, mobile applications for file uploads and management are under development."
+  },
+  {
+    "question": "Does Jackal offer real-time collaboration on files?",
+    "answer": "Jackal is exploring real-time collaboration features that would allow users to work on files simultaneously."
+  },
+  {
+    "question": "Can Jackal be used for IoT data storage?",
+    "answer": "Yes, Jackal is suitable for securely storing large"
+  },
+  {
+    "question": "where or how can i stake jackal tokens or jackal or JKL tokens ?",
+    "answer": " https://jackal.omniflix.co/ or https://ping.pub/jackal"
+  },
+  {
+    "question": " where can i buy or swap Jackal tokens or jkl tokens ?",
+    "answer": "https://app.osmosis.zone/assets, https://astrovault.io/ , https://app.shadeprotocol.io/swap"
+  },
+  {
+    "question": "where can i find jackal tutorials ",
+    "answer": "https://youtube.com/playlist?list=PL8uYUtY_DQ7VfhYZixXuCPC3_QurkYOlk&si=iTLdpYpy4sec1rml"
+  }]
+  
